@@ -20,7 +20,7 @@ function App() {
       description: "Complete brand identity design including logo, color palette, and guidelines.",
       imageUrl: "https://images.unsplash.com/photo-1561070791-2526d30994b5",
       link: "#",
-      category: "Graphic Design Noob"
+      category: "Graphic Design"
     },
     {
       title: "3D Product Visualization",
@@ -52,7 +52,7 @@ function App() {
             transition={{ duration: 0.8 }}
             className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent"
           >
-            Welcome to My Portfolio
+            My Name is Anas Ayari
           </motion.h1>
           <div className="text-2xl md:text-3xl text-gray-700 h-20">
             <TypedText
