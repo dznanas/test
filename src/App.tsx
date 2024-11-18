@@ -57,7 +57,7 @@ function App() {
           <div className="text-2xl md:text-3xl text-gray-700 h-20">
             <TypedText
               strings={[
-                "Graphic Designer Noob",
+                "Graphic Designer",
                 "Motion Designer",
                 "3D Designer"
               ]}
