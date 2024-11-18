@@ -20,7 +20,7 @@ function App() {
       description: "Complete brand identity design including logo, color palette, and guidelines.",
       imageUrl: "https://images.unsplash.com/photo-1561070791-2526d30994b5",
       link: "#",
-      category: "Graphic Design"
+      category: "Graphic Design Noob"
     },
     {
       title: "3D Product Visualization",
